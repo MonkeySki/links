@@ -30,7 +30,7 @@ render(
       path="*"
       element={
         <main style={{ padding: "1rem" }}>
-          <p>I haven't made anything for this page</p>
+          <p>Changed Invoices to Bosses and Expenses to About Us from this: https://reactrouter.com/docs/en/v6/getting-started/tutorial</p>
         </main>
       }
     />
